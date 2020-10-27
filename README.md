@@ -17,7 +17,7 @@ My data set is from data.gov, which is a government dataset webset. This set of 
 
 ## Team Members
 
-- Person 1: Hello there this is Mike Zhai!
+- Person 1: Hello there this is Mike Zhai! 
 
 ## References
 
